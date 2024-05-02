@@ -1,5 +1,5 @@
 import React from "react";
-import ReactPlayer from "react-player";
+
 import videoFile from "../assets/video/Trailer.mp4";
 const VideoPlayer = () => {
   return (
