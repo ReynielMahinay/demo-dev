@@ -26,7 +26,7 @@ const Footer = () => {
 
         <div className="flex flex-col gap-5">
           <h3 className="font-kanit text-yellow font-semibold text-xl  ml-2 max-sm:ml-0  ">
-            GAME
+            GAME test
           </h3>
 
           <div className="flex flex-row gap-4 items-center justify-start ">
