@@ -30,7 +30,7 @@ const Hero = () => {
         >
           CODE<span className="text-yellow"> SAGA</span>
           <br />
-          AARHUS EVENTYRR
+          AARHUS EVENTYR
         </h1>
         <p className="text-slate-300 mb-8 max-w-[420px] font-kanit max-sm:text-[15px] text-lg mt-4">
           Embark on an epic 2D RPG action adventure. Dive into a richly crafted
