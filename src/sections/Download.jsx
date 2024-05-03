@@ -7,7 +7,7 @@ const Download = () => {
       id="download"
     >
       <div className="font-kanit font-bold text-5xl xl:text-5xl md:text-4xl sm:text-4xl  max-sm:text-2xl text-yellow justify-center items-center">
-        <h1>DOWNLOAD LINKS</h1>
+        <h1>DOWNLOAD LINK</h1>
       </div>
       <div
         className="flex flex-1 xl:flex-row max-md:flex-col md:justify-center md:items-center gap-11 md:gap-5
