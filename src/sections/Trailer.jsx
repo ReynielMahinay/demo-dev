@@ -10,7 +10,7 @@ const Trailer = () => {
       {/* Title section */}
       <div className="">
         <h2 className="font-kanit text-yellow xl:text-5xl md:text-4xl sm:text-4xl  max-sm:text-2xl font-bold ">
-          GAMEPLA
+          GAMEPLAY
         </h2>
       </div>
       {/* video player section */}
