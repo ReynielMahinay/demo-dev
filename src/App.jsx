@@ -51,9 +51,9 @@ function App() {
         <Story />
         <Features />
       </section>
-      <section className=" overflow-hidden md:padding-r md:padding-l max-sm:px8 max-md:px-10 relative bg-trailer_bg bg-fit bg-no-repeat bg-center">
+      {/* <section className=" overflow-hidden md:padding-r md:padding-l max-sm:px8 max-md:px-10 relative bg-trailer_bg bg-fit bg-no-repeat bg-center">
         <Trailer />
-      </section>
+      </section> */}
       <section className="relative">
         <Download />
       </section>

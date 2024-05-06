@@ -42,7 +42,7 @@ const Hero = () => {
 
       {/* second div that has portal and mc */}
 
-      <div
+      {/* <div
         className=" hidden xl:flex flex-row relative xl:max-w-[35%] md:w-[50%] 
        flex-1 justify-end items-center max-sm:justify-center max-sm:items-center "
       >
@@ -55,7 +55,7 @@ const Hero = () => {
           src={portal}
           className="w-[278px] h-[400px] pl-15 hidden xl:block "
         />
-      </div>
+      </div> */}
     </section>
   );
 };
