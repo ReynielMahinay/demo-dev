@@ -17,6 +17,7 @@ const Download = () => {
           <DownloadCard key={link.id} {...link} />
         ))}
       </div>
+      <button onClick={() => methodDoesNotExist()}>Break the world</button>;
     </section>
   );
 };
