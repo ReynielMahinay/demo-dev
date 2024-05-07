@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="flex flex-1 flex-row max-sm:flex-col gap-24 max-sm:gap-5">
         <div>
           <h3 className="font-kanit text-yellow font-semibold text-xl ml-2 max-sm:ml-0">
-            CONTACT
+            CONTAC
           </h3>
           {contactLink.map((contact) => (
             <a href={contact.href} target="_blank" key={contact.id}>
