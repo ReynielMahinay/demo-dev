@@ -1,6 +1,11 @@
 # Use official Node.js image with the specified version and Alpine Linux version as the base image
 FROM node:22-alpine3.19 AS builder
 
+RUN addgroup --system <group>
+RUN adduser --system <user> --ingroup <group>
+USER <user>:<group>
+
+
 # Set the working directory in the container
 WORKDIR /app
 
